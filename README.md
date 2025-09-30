@@ -1,2 +1,3 @@
 # repo-1
-Where I keep my code
+A simple coin game
+
